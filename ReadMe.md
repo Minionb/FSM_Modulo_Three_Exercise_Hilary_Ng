@@ -35,16 +35,12 @@ Root files → Config files for TypeScript (tsconfig.json), Jest (jest.config.js
 ```
 npm install
 ```
+
  <br>
-2. Build the Project
+2. Run the Program
 
 ```
-npx tsc
-```
- <br>
-3. Run the Program
-
-```
+cd src
 npx ts-node index.ts
 ```
 
