@@ -1,3 +1,4 @@
+// main file of the app
 import { ModuloThree } from './fsm/ModuloThree'
 
 // Create the ModuloThree instance

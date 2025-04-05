@@ -1,4 +1,4 @@
-# FSM - Modulo Three Exercise
+# FSM - Modulo Three Exercise (Standard Exercise)
 This project implements a Finite State Machine (FSM) in TypeScript that calculates the remainder when a binary number is divided by 3 — i.e., modulo-3 of binary input. It demonstrates key software design principles such as encapsulation, abstraction, and testability, using an object-oriented programming approach and test cases with Jest.
 
 ## Project Structure
@@ -22,6 +22,8 @@ This project implements a Finite State Machine (FSM) in TypeScript that calculat
 
  <br>
 This structure follows a clean separation of concerns:
+
+src/index.ts → main file that start the program (with output for example input "110" & "1010")
 
 src/fsm/ → Core FSM logic.
 
