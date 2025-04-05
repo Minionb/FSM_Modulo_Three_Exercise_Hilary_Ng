@@ -1,5 +1,4 @@
-
-
+// Define business logic, the required state and transition for the FSM system
 import { State } from './State'
 import { StateMachine } from './StateMachine'
 

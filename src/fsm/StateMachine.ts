@@ -1,3 +1,4 @@
+//Managing state and its transition 
 import { State } from './State'
 
 export class StateMachine {
